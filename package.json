@@ -1,0 +1,25 @@
+{
+  "name": "nado-lighter-hedge",
+  "version": "1.0.0",
+  "description": "Nado and Lighter hedge trading bot",
+  "main": "index.js",
+  "scripts": {
+    "start": "node strategies/hedge_manager.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "nado",
+    "lighter",
+    "hedge",
+    "trading"
+  ],
+  "author": "",
+  "license": "MIT",
+  "dependencies": {
+    "dotenv": "^16.3.1",
+    "ethers": "^5.7.2",
+    "axios": "^1.6.2",
+    "ws": "^8.14.2",
+    "chalk": "^4.1.2"
+  }
+}
