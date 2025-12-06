@@ -65,7 +65,7 @@ nado-lighter-hedge/
 
 ```bash
 # 如果是 Git 仓库
-git clone <repository-url>
+git clone https://github.com/lzysxj001-glitch/nado-lighter-hedge.git
 cd nado-lighter-hedge
 
 # 或者直接使用已有的项目文件夹
